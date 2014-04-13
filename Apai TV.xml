@@ -11,7 +11,7 @@
 
 			<item>
 				<title>HBO HD</title>
-				<link>http://208.122.3.2:8550</link>
+				<link>rtmp://$OPT:rtmp-raw=rtmpe://173.208.201.162:1935/goLive playpath=Wrt71g0jgwxgsHq swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
 			</item>
 
