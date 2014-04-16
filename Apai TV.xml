@@ -11,7 +11,7 @@
 
 			<item>
 				<title>HBO HD</title>
-				<link>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/</link>
+				<link>http://72.46.226.53/live01/_definst_/canal91/playlist.m3u8</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
 			</item>
 
