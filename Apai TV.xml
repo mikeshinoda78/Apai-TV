@@ -11,7 +11,7 @@
 
 			<item>
 				<title>HBO HD</title>
-				<link>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.26:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org</link>
+				<link>rtmp://$OPT:rtmp-raw=rtmpe://89.46.102.70:443/liveedge playpath=bt1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
 			</item>
 
