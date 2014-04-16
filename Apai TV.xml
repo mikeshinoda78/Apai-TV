@@ -11,7 +11,7 @@
 
 			<item>
 				<title>HBO HD</title>
-				<link>http://russian.promo7uk.co.uk:4022/udp/233.99.61.148:5000</link>
+				<link>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
 			</item>
 
