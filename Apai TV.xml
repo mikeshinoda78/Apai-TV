@@ -18,7 +18,7 @@
 
 			<item>
 				<title>RED BULL SPORT</title>
-				<link>rtmp://cp93704.live.edgefcs.net/live/ playpath=redbull1@21839 swfUrl=http://www.chanfeed.com/streams/mediaplayer.swf live=1 pageUrl=http://chanfeed.com/red-bull-sport</link>
+				<link>rtmp://$OPT:rtmp-raw=rtmp://94.242.228.143:80/liverepeater playpath=141892 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/streamn.php token=Fo5_n0w?U.rA6l3-70w47ch</link>
 				<thumbnail>http://img507.imageshack.us/img507/4618/00450httpihaymarketneta.jpg</thumbnail>
 			</item>
 
