@@ -34,7 +34,7 @@
 
 			<item>
 				<title>Penthouse HD1</title>
-				<link>http://61.93.247.210:80/hls/discovery/discovery.m3u8</link>
+				<link>http://188.230.136.37:80/udp/239.18.2.241:5000</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/penthouse_hd1.jpg</thumbnail>
 			</item>
 
