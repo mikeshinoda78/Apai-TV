@@ -11,7 +11,7 @@
 
 			<item>
 				<title>HBO HD</title>
-				<link>rtmp://$OPT:rtmp-raw=rtmpe://89.46.102.70:443/liveedge/ playpath=newsky1.stream swfurl="http://hqstreams.tv/jwplayer/jwplayer.flash.swf" pageUrl=http://hqstreams.tv/</link>
+				<link>rtmp://$OPT:rtmp-raw=rtmp://akamai.kbps.tv:1935/live playpath=skysp3?=90576b874e909c22651f4145032e2759 swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed.php?s=skysp3&width=580&height=430&domain=bliner.tv</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
 			</item>
 
