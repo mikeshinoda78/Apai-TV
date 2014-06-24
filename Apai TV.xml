@@ -40,25 +40,25 @@
 
 			<item>
 				<title>Penthouse HD2</title>
-				<link>rtmp://s6.webport.tv/live/ playpath=z990104.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+				<link>http://95.190.66.135:1234/udp/233.7.70.236:5000</link>
 				<thumbnail>hhttp://www.lyngsat-logo.com/logo/tv/pp/penthouse_hd2.jpg</thumbnail>
 			</item>
 
 			<item>
 				<title>Redlight HD</title>
-				<link>rtmp://s6.webport.tv/live/ playpath=z990101.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+				<link>http://212.164.174.19:1234/udp/233.7.70.112:5000</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/redlight_hd.jpg</thumbnail>
 			</item>
 
 			<item>
 				<title>HustlerTV HD</title>
-				<link>rtmp://s6.webport.tv/live/ playpath=z990102.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+				<link>http://212.164.174.19:1234/udp/233.7.70.236:5000</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hustler_hd.jpg</thumbnail>
 			</item>
 
 			<item>
 				<title>Venus</title>
-				<link>rtmp://c31.webcaston.com/live/channel/ playpath=fituyry swfUrl=http://www.webcaston.com/player/player.swf live=1 pageUrl=http://www.webcaston.com</link>
+				<link>http://95.68.199.94:1212/udp/233.99.61.87:5000</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/venus_ar.jpg</thumbnail>
 			</item>
 
@@ -70,19 +70,19 @@
 
 			<item>
 				<title>Russian XXX</title>
-				<link>http://91.240.87.34:4015/udp/224.200.202.64:1234</link>
+				<link>http://95.68.199.94:1212/udp/233.99.61.160:5000</link>
 				<thumbnail></thumbnail>
 			</item>
 
 			<item>
 				<title>Hustler HD</title>
-				<link>http://91.240.87.34:4001/udp/224.200.202.213:1234</link>
+				<link>http://95.68.199.94:1212/udp/233.99.61.232:5000</link>
 				<thumbnail></thumbnail>
 			</item>
 
 			<item>
 				<title>XXX Club</title>
-				<link>http://91.240.87.34:4004/udp/224.200.202.111:1234</link>
+				<link>http://95.68.199.94:1212/udp/233.99.61.246:5000</link>
 				<thumbnail></thumbnail>
 			</item>
 
