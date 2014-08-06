@@ -100,7 +100,7 @@
 
 			<item>
 				<title>Playboy TV</title>
-				<link>rtmp://94.242.176:1937/live/stream48</link>
+				<link>rtsp://85.12.5.8:1935/aovivo/sexprive</link>
 				<thumbnail></thumbnail>
 			</item>
 		</items>
